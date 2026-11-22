@@ -1,4 +1,6 @@
 # Java LeetCode Assignment
+LeetCode Profile: [UphvU80NqW](https://leetcode.com/u/UphvU80NqW/)
+Connected LeetCode account for all submissions below.
 
 Java solutions to 16 LeetCode problems, all Accepted on LeetCode.
 
